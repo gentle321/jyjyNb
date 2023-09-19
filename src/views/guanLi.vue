@@ -152,7 +152,7 @@ const open = (url:string) =>{
   background-color: rgba(0, 0, 0, 0.299);
   img{
     width: 100%;
-    height: 100vh;
+    height: 80px;
   }
 }
 .green{
